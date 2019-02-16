@@ -6,11 +6,11 @@ function mostrarAumento()
 {
     var sueldo
     var = resultado
+    var = calculo
      
-    sueldo = parseInt(document.getElementById("sueldo").value) 
-    resultado = document.getElementById("resultado") 
-    resultado + (sueldo*resultado/100)
-    
+    sueldo = parseInt(document.getElementById("sueldo").value; 
+    calculo = parseInt(sueldo*10 /100)
+    parseInt(document.getElementById("resultado").value) = calculo = resultado;
 
 
 
